@@ -1,0 +1,9 @@
+Passive: Power of Space
+
+QianZong collects Space Debris from killing enemies which upgrades his abilities.
+When QianZong reaches level 16, Space Debris exceeding 300 are converted into ability power.
+When QianZong has collected more than 400 Space Debris, Spacetime Rift and Spacetime Blast deal additional true damage equals to 10% targets' maximum health.
+
+Minions: 1 Space Debris
+Cannon minions and non-epic jungle monsters: 5 Space Debris
+Enemy champions and epic jungle monsters: 10 Space Debris

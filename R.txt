@@ -1,0 +1,11 @@
+R: Space Spirit
+
+QianZong creates a hexagon space area with 800/1000/1200 range that last for 5/7.5/10 seconds. 
+
+QianZong transforms into the spirit of space in that area and can teleports to any point in that area instantly by recasting this ability. QianZong can recast this ability during the duration of this field as many times as he wants.
+
+Cooldown between recasts: 2.5/2/1.5 seconds. This is not effected by cooldown reduction. When QianZong reaches level 18, this cooldown is reduced to 0.5 seconds.
+
+
+Mana cost: 80/90/100/110/120
+Cooldown: 120/100/80 seconds

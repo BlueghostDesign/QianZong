@@ -1,0 +1,11 @@
+E: Space Blast
+
+QianZong explodes the space power of all targets within 200 range, dealing 100/150/200/250/300 (+0.5 total AP) magic damage and slows all targets by 50% for 0.5/0.75/1/1.25/1.5 seconds. Targets marked with Space Imprints will be stuned instead of being slowed. 
+
+When QianZong has collected over 200 Space Debris, the range is extended to 400.
+
+When QianZong reaches level 13, the slow/stun duration is extended to 1/1.25/1.5/1.75/2 seconds.
+
+
+Mana cost: 50/50/50/50/50
+Cooldown: 16/14/12/10/8 seconds

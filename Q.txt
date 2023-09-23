@@ -1,0 +1,14 @@
+Q: Spacetime Rift
+
+QianZong can cast this ability upto 3 times in 6 seconds. Spacetime Rift marks all targets with a Spatial Imprint that last for 5 seconds.
+First cast: Dealing 50/75/100/125/150 (+1 total AP) magic damage to all targets. Range: 600
+Second cast: Dealing 50/75/100/125/150 (+1 total AP) magic damage to all targets in 100° sector area. Range: 600
+Third cast: Dealing 100/150/200/250/300 (+1 total AP) magic damage to all targets in 60° sector area. Range: 800
+
+Cooldown between each cast: 2/1.75/1.5/1.25/1 seconds
+
+When QianZong has collected more than 100 Space Debris, Spacetime Rift slows the target by 20%/40%/60% with 1st/2nd/3rd cast for 1 second. This slow is extended to 2 seconds when QianZong reaches level 9.
+
+
+Mana cost(first cast only): 80/85/90/95/100
+Cooldown: 16/14/12/10/8 seconds

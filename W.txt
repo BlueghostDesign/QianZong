@@ -1,0 +1,14 @@
+W: YinYang Spacetime Gate
+
+QianZong can place two YinYang Spacetime Gate that last for 3 seconds in 3 seconds. The side facing QianZong when placed is the Yang side, the other side of the gate is Yin side.
+All projectile abilities that enter one YinYang Spacetime Gate will come out from the other YinYang Spacetime Gate with the same angle, distance between the two YinYang Spacetime Gate is not counted as ability range. Abilities that enter from the Yin side will only come out from the Yin side of the other gate, similarly, abilities that enter from the Yang side will only come out from the Yang side of the other gate.
+
+Abilities of enemys will reduce 10%/12.5%/15%/17.5%/20% damage if traveled through the gates.
+
+When QianZong has collected 300 Space Debris or more, QianZong can create an additional golden Extreme YinYang Spacetime Gate(third cast). Abilites that enter the Extreme YinYang Spacetime Gate will come out from both YinYang Spacetime Gate. Only ally's abilities can go through Extreme YinYang Spacetime Gate.
+
+When QianZong reaches level 16, all YinYang Spacetime Gates last for 5 seconds instead.
+
+
+Mana cost: 20/25/30/35/40 per YinYang Spacetime Gate
+Cooldown: 20/18/16/14/12 seconds
